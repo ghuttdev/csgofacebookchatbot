@@ -1,6 +1,6 @@
 # CS:GO Pro Player Configs Facebook Chat Bot
 
-This is a Claudia Facebook chat bot that provides information to users about game settings of professional CS:Go players. 
+This is a node.js chat bot using Claudia, that provides information to users about game settings of professional CS:GO players. 
 
 Services/Tools used: 
 - Node.js;
@@ -16,11 +16,13 @@ Message https://www.facebook.com/csgoproplayerconfigs/ with the following comman
 - Forest
 - S1mple
 
-More players/commands can be added in the AIML file, which is the database of the bot.
+More players/commands can be added in the AIML file, which works as a database for the bot.
 
-SETUP
+SETUP (After cloning)
 
-
+npm install claudia -g
+npm install
+claudia create --region eu-west-2 --api-module bot --configure-fb-bot
 
 
 
