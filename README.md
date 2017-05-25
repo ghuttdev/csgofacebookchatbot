@@ -20,9 +20,9 @@ More players/commands can be added in the AIML file, which works as a database f
 
 SETUP (After cloning)
 
-npm install claudia -g
-npm install
-claudia create --region eu-west-2 --api-module bot --configure-fb-bot
+*npm install claudia -g
+*npm install
+*claudia create --region eu-west-2 --api-module bot --configure-fb-bot
 
 
 
