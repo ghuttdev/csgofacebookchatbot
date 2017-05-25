@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+
+<category><pattern>* HELLO *</pattern>
+<template>Hey! Tell me which CS:GO pro player's configs you need! :)</template>
+</category>
+
+<category><pattern>* FOX *</pattern>
+<template>Here are Fox's configs - DPI: 450; SENSIVITY: 4.6; Resolution: 1024x768 (4:3)</template>
+</category>
+
+<category><pattern>* F0REST *</pattern>
+<template>Here are F0rest's configs - DPI: 400; SENSIVITY: 3.5; Resolution: 1280x960 (4:3)</template>
+</category>
+
+<category><pattern>* S1MPLE *</pattern>
+<template>Here are S1mple's configs - DPI: 400; SENSIVITY: 3.09; Resolution: 800x600 (4:3)</template>
+</category>
+
+<category><pattern>* THANKS *</pattern>
+<template>You're welcome, thats what I am here for! :D</template>
+</category>
+
+
+
+</aiml>

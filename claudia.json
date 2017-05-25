@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "bot_config-executor",
+    "name": "bot_config",
+    "region": "us-west-2"
+  },
+  "api": {
+    "id": "2nhfslph10",
+    "module": "bot"
+  }
+}
